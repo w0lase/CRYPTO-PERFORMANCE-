@@ -18,8 +18,8 @@ The visualization showcases the limit distribution of the difference in negative
 ## Usage
 
 1. Clone the repository.
-2. View the visualizations embedded below.
-3. Run the provided scripts to replicate or extend the analysis.
+2. View the visualization embedded below.
+3. Run the provided scripts to replicate or extend the analysis. (The scripts contain way more analysis than what is dispplayed here, but this graph was the endgoal of the whole project)
 
 ## Conclusion
 
